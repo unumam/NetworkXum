@@ -1,6 +1,6 @@
-from PyStorageHelpers import *
-from PyStorageGraph.BaseAPI import BaseAPI
-from PyStorageGraph.BaseSQL import BaseSQL
+from networkxum.helpers import *
+from networkxum.BaseAPI import BaseAPI
+from networkxum.BaseSQL import BaseSQL
 
 
 class Cayley(BaseAPI):

@@ -6,7 +6,7 @@ from pystats2md.stats_subset import StatsSubset
 from pystats2md.report import Report
 
 from P0Config import P0Config
-from PyStorageHelpers import *
+from networkxum.helpers import *
 
 
 class P4Print():

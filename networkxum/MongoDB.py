@@ -6,8 +6,8 @@ import pymongo
 from pymongo import MongoClient
 from pymongo import UpdateOne
 
-from PyStorageGraph.BaseAPI import BaseAPI
-from PyStorageHelpers import *
+from networkxum.BaseAPI import BaseAPI
+from networkxum.helpers import *
 
 
 class MongoDB(BaseAPI):

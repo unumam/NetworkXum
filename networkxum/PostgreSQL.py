@@ -1,4 +1,4 @@
-from PyStorageGraph.BaseSQL import *
+from networkxum.BaseSQL import *
 
 
 class PostgreSQL(BaseSQL):

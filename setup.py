@@ -14,7 +14,7 @@ setup(
     url='https://github.com/unumam/NetworXum',
     description='A NetworkX-like Python wrapper for graphs persisted in a DBMS',
     long_description=long_description,
-    packages=['networkxum'],
+    packages=['networkxum', 'networkxum.helpers'],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

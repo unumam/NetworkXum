@@ -1,5 +1,5 @@
-from PyStorageGraph.BaseAPI import BaseAPI
-from PyStorageHelpers import *
+from networkxum.BaseAPI import BaseAPI
+from networkxum.helpers import *
 
 from P0Config import P0Config
 
